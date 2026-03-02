@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code (optional - some teams commit this, you already are)
+# .vscode/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model weights (large files)
+*.h5
+*.pt
+*.pth
+
+# OS junk
+.DS_Store
+Thumbs.db

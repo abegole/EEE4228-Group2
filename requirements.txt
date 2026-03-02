@@ -1,0 +1,8 @@
+# Place ALL DEPENDENCIES TO BE INSTALLED here!
+
+mtcnn
+tensorflow
+opencv-python
+torch
+torchvision
+pillow
